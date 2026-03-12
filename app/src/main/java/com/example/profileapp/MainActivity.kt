@@ -227,8 +227,8 @@ fun ContactCard() {
             verticalArrangement = Arrangement.spacedBy(20.dp)
         ) {
 
-            ContactItem(Icons.Default.Email,"Email","prima@email.com")
-            ContactItem(Icons.Default.Phone,"WhatsApp","+62 812345678")
+            ContactItem(Icons.Default.Email,"Email","prima.123140119@itera.ac.id")
+            ContactItem(Icons.Default.Phone,"WhatsApp","+62 81262697797")
             ContactItem(Icons.Default.LocationOn,"Location","Lampung, Indonesia")
 
         }
